@@ -12,6 +12,9 @@ set :css_dir,   'stylesheets'
 set :js_dir,    'javascripts'
 set :images_dir, 'images'
 
+# Set Build Dir
+set :build_dir, "tmp"
+
 ###
 # Build-specific configuration
 ###
